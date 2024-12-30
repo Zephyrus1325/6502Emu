@@ -23,6 +23,7 @@ Coisas Planejadas:
 
 Instruções Feitas:
 | Instrução | Estado |
+| ------------- | ------------- |
 | ADC  | ✔ |
 | AND  | ❌ |
 | ASL  | ❌ |
